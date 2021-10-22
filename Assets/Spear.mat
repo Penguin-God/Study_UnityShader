@@ -22,5 +22,8 @@ Material:
     m_Floats:
     - Vector1_8C45DF6: 0
     - Vector1_D9B92E0B: 0
-    m_Colors: []
+    - Vector1_F577051F: 0
+    - _Vector1: 1
+    m_Colors:
+    - Vector3_1FA34093: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
